@@ -5,14 +5,14 @@
     "description": "Welcome to our new blog, My Friday Blog. We hope you enjoy \nreading what we have to say!",
     "author": [
       {
-        "name": "Nora Jones",
+        "name": "Maëlle Salmon",
         "url": "https://example.com/norajones"
       }
     ],
     "date": "2020-07-03",
     "categories": [],
-    "preview": {},
-    "last_modified": "2020-07-03T09:18:51+02:00",
-    "input_file": {}
+    "preview": "posts/welcome/welcome_files/figure-html5/unnamed-chunk-1-1.png",
+    "last_modified": "2020-07-03T09:23:48+02:00",
+    "input_file": "welcome.utf8.md"
   }
 ]

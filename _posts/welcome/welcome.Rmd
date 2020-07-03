@@ -4,7 +4,7 @@ description: |
   Welcome to our new blog, My Friday Blog. We hope you enjoy 
   reading what we have to say!
 author:
-  - name: Nora Jones 
+  - name: Maëlle Salmon
     url: https://example.com/norajones
     affiliation: Spacely Sprockets
     affiliation_url: https://example.com/spacelysprokets
@@ -20,6 +20,17 @@ knitr::opts_chunk$set(echo = FALSE)
 # Learn more about creating blogs with Distill at:
 # https://rstudio.github.io/distill/blog.html
 
+```
+
+In this post, we shall see stuff.
+
+## A section
+
+Some code below
+
+```{r}
+a <- 1:10
+plot(a)
 ```
 
 
