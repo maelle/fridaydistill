@@ -1,0 +1,37 @@
+---
+title: "A Fantastic New Post"
+description: |
+  A short description of the post.
+author:
+  - name: Maëlle Salmon
+    url: https://example.com/norajones
+date: 07-03-2020
+output:
+  distill::distill_article:
+    self_contained: false
+bibliography: refs.bib
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+In this post, we shall see stuff.
+
+## A section
+
+Some code below
+
+```{r}
+a <- 1:10
+plot(a)
+```
+
+what a nice package[@refmanager] built on top of R[@my-citation-key-for-r].
+
+When \(a \ne 0\), there are two solutions to \(ax^2 + bx + c = 0\) and they are
+$$x = {-b \pm \sqrt{b^2-4ac} \over 2a}.$$
+
+I write a sentence [^footnote].
+
+[^footnote]: but I also want to mention this off-topic thing

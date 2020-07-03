@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+  <channel>
+    <title>My Saturday Blog</title>
+    <link>https://friday-distill.netlify.app/</link>
+    <atom:link href="https://friday-distill.netlify.app/index.xml" rel="self" type="application/rss+xml"/>
+    <description>My Friday Blog Created during a live demo
+</description>
+    <generator>Distill</generator>
+    <lastBuildDate>ven., 03 juil. 2020 00:00:00 +0000</lastBuildDate>
+    <item>
+      <title>A Fantastic New Post</title>
+      <dc:creator>Maëlle Salmon</dc:creator>
+      <link>https://friday-distill.netlify.app/posts/2020-07-03-a-fantastic-new-post</link>
+      <description>A short description of the post.</description>
+      <guid>https://friday-distill.netlify.app/posts/2020-07-03-a-fantastic-new-post</guid>
+      <pubDate>ven., 03 juil. 2020 00:00:00 +0000</pubDate>
+      <media:content url="https://friday-distill.netlify.app/posts/2020-07-03-a-fantastic-new-post/a-fantastic-new-post_files/figure-html5/unnamed-chunk-1-1.png" medium="image" type="image/png" width="1248" height="768"/>
+    </item>
+    <item>
+      <title>Welcome to My Friday Blog</title>
+      <dc:creator>Maëlle Salmon</dc:creator>
+      <link>https://friday-distill.netlify.app/posts/welcome</link>
+      <description>Welcome to our new blog, My Friday Blog. We hope you enjoy 
+reading what we have to say!</description>
+      <guid>https://friday-distill.netlify.app/posts/welcome</guid>
+      <pubDate>ven., 03 juil. 2020 00:00:00 +0000</pubDate>
+      <media:content url="https://friday-distill.netlify.app/posts/welcome/welcome_files/figure-html5/unnamed-chunk-1-1.png" medium="image" type="image/png" width="1248" height="768"/>
+    </item>
+  </channel>
+</rss>

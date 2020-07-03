@@ -1,5 +1,6 @@
 name: "fridaydistill"
 title: "My Saturday Blog"
+base_url: "https://friday-distill.netlify.app/"
 description: |
   My Friday Blog Created during a live demo
 output_dir: "_site"
@@ -9,5 +10,8 @@ navbar:
       href: index.html
     - text: "About"
       href: about.html
-output: distill::distill_article
+output: 
+  distill::distill_article:
+    css: styles.css
+
 citations: true
