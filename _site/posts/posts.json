@@ -1,0 +1,18 @@
+[
+  {
+    "path": "posts/welcome/",
+    "title": "Welcome to My Friday Blog",
+    "description": "Welcome to our new blog, My Friday Blog. We hope you enjoy \nreading what we have to say!",
+    "author": [
+      {
+        "name": "Nora Jones",
+        "url": "https://example.com/norajones"
+      }
+    ],
+    "date": "2020-07-03",
+    "categories": [],
+    "preview": {},
+    "last_modified": "2020-07-03T09:18:51+02:00",
+    "input_file": {}
+  }
+]
